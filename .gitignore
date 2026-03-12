@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+
+# Programming environments
+venv/
+.venv/
+node_modules/
+
+# Local configuration
+.env
+.env.local
+
+# Logs
+server_log.txt
+
+# Local application data
+.argos-translate/

@@ -1,0 +1,20 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables (Sensitive)
+.env
+
+# Project specific
+server_log.txt
+.argos-translate/
+
+# System files
+.DS_Store
+Thumbs.db
